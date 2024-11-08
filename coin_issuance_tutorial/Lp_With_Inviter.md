@@ -34,7 +34,7 @@ LP分红+推荐奖励一键发币视频教程：
 
 ## 3、参数说明
 
-钱包连接成功后，我们通过HitaTool可视化页面开启创建，打开https://tokenbox.tools/LPwithInviter，填写相应的参数：
+钱包连接成功后，我们通过Token Box可视化页面开启创建，打开https://tokenbox.tools/LPwithInviter，填写相应的参数：
 
 LP分红参数
 
@@ -142,4 +142,4 @@ LP分红参数
 
   ![img](https://bucket-files-web3.oss-cn-hongkong.aliyuncs.com/news/news/2024/f5/87/f587bb666b3f4186e963dd14c09774ec.jpg)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[@HitaTool](https://t.me/HitaTool)
+如有不明白或者不清楚的地方，请加入官方电报群：[@Token Box](https://t.me/Token Box)

@@ -120,9 +120,9 @@ LP分红指的是，用户在去中心化交易所（如薄饼swap）添加流�
 
 - **测试网的问题**
 
-  如果您选择在BSC测试网发币，请进入以下测试swap，并按照HitaTool要求的测试币做池子。具体参数如下：
+  如果您选择在BSC测试网发币，请进入以下测试swap，并按照Token Box要求的测试币做池子。具体参数如下：
 
   - 测试网薄饼：https://pancakeswap.finance/swap?chain=bscTestnet
   - 测试网USDT：0x66e972502a34a625828c544a1914e8d8cc2a9de5
 
-如有不明白或者不清楚的地方，请加入官方电报群：[@HitaTool](https://t.me/HitaTool)
+如有不明白或者不清楚的地方，请加入官方电报群：[@Token Box](https://t.me/Token Box)
